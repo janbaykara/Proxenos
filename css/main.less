@@ -1,0 +1,233 @@
+@import url('http://fonts.googleapis.com/css?family=Dosis:400,500,600,700');
+@import url('http://fonts.googleapis.com/css?family=Archivo+Narrow:400,700,700italic,400italic');
+
+/*========================
+ Colour */
+ 
+@colour_body: #444;
+@colour_heading: black;
+@colour_interact: crimson;
+@colour_active: maroon;
+@colour_visited: darkred;
+
+/*========================
+ Typography */
+ 
+/* Other font variants to consider:
+	Varela Round & Rokkitt
+	Pathway Gothic One
+	Archivo Black
+*/
+
+.font_body  (@font-size: 11px) {
+	font-family: "Archivo Narrow", sans-serif;
+	color: @colour_body;
+	font-size: @font-size;
+}
+.font_heading  (@font-size: 16px) {
+	font-family: "Dosis", sans-serif;
+	color: @colour_heading;
+	font-size: @font-size;
+}
+
+a {
+	color: @colour_interact;
+	text-decoration: none;
+	
+	&:visited {
+		color: @colour_visited;
+	}
+	&:hover {
+		color: @colour_active;
+	}
+	&:active {
+		color: @colour_active;
+	}
+}
+
+/*========================
+ Grid */
+ 
+ @width_column: 10%;
+ @width_padding: 10px;
+ @width_margin: 10px;
+ 
+.col_multiple(@cols) {
+	overflow: hidden;
+	display: block;
+	float: left;
+	width: @cols * @width_column;
+}
+.content_col_multiple(@cols) {
+	-webkit-column-count: @cols;
+	-webkit-column-break-inside: avoid;
+	
+	a.title {
+		-webkit-column-span:all;
+	}
+}
+
+.col1 { .col_multiple(1); }
+.col2 { .col_multiple(2); }
+.col3 { .col_multiple(3); }
+.col4 { .col_multiple(4); }
+.col5 { .col_multiple(5); }
+
+/*
+.col1:not(.flashy) .entry-inner > div { .content_col_multiple(1); }
+.col2:not(.flashy) .entry-inner > div { .content_col_multiple(2); }
+.col3:not(.flashy) .entry-inner > div { .content_col_multiple(3); }
+.col4:not(.flashy) .entry-inner > div { .content_col_multiple(4); }
+.col5:not(.flashy) .entry-inner > div { .content_col_multiple(5); }
+*/
+
+/*========================
+ Universal */
+
+.clear {
+	display: block;
+	float: none;
+	clear: both;
+	height: 0%;
+	width: 100%;
+}
+
+/*========================
+ Global */
+ 
+* { .font_body(); }
+
+h1 { .font_heading(40px); }
+h2 { .font_heading(36px); }
+h3 { .font_heading(24px); }
+h4 { .font_heading(18px); }
+h5 { .font_heading(12px); }
+ 
+h1 {
+	text-align: center;
+	padding: 30px 0px 30px;
+	margin: 0px 10px 0px;
+	border-bottom: 3px solid #DDD;
+	text-transform: uppercase;
+	font-size: 40px;
+	
+	&:before {
+		color: red;
+		content: "PROXENOS ";
+		display: block;
+		font-size: 15px;
+	}
+}
+
+/*========================
+ Application */
+ 
+a.heading-category {
+	margin: 30px 0px 0px;
+	clear: both;
+	z-index: 999;
+	position: relative;
+	display: block;
+	background: #EEE;
+	
+	* {
+		color: white;
+		padding: 6px 12px 8px 10px;
+		background: #E85A5A;
+		border-top: 8px solid #93C5D9;
+		display: inline-block;
+	}
+}
+
+div.entry-row {
+	li.entry {
+	
+		margin: 10px 0px 0px 0px;
+	
+		div.entry-inner {
+			padding: 0px @width_padding @width_padding;
+			border-left: 1px solid #DDD;
+			border-bottom: 1px solid #DDD;
+			
+			> div {
+				overflow: hidden;
+				text-overflow: ellipsis;
+				height: 9.2em;
+			}
+		}
+		
+		&:first-child {
+			.entry-inner {
+				border-left: 0px !important;
+			}
+		}
+		
+		span.entry_source_feed {
+			display: inline-block;
+			background: #CFCFCF;
+			color: white;
+			padding: 3px 5px;
+			text-transform: uppercase;
+			font-size: 11px;
+			font-weight: bold;
+			font-family: "Dosis", sans-serif;
+		}
+		
+		a.title {
+			margin-top: -17px;
+			display: block;
+			border-top: 18px solid #EDEDED;
+			
+			h3 {
+				font-size: 24px;
+				padding: 7px 0px 10px;
+				max-width: 280px;
+			}
+			
+			span.entry_source_feed {
+				display: inline-block;
+				background: #E85A5A;
+				color: white;
+				padding: 3px 5px;
+				text-transform: uppercase;
+				font-size: 11px;
+				font-weight: bold;
+				font-family: "Dosis", sans-serif;
+			}
+		}
+		
+		img {
+			width: 100%;
+			height: 100%;
+			border: none !important;
+		}
+		
+		img, p {
+			margin-bottom: 5px;
+		}
+		
+		&.flashy div.entry-inner a.title {
+			padding: 30px !important;
+			display:block;
+			height: 160px;
+			text-overflow: ellipsis;
+			overflow: hidden;
+			position: relative;
+			
+			h3 {
+				border: none;
+				font-size: 20pt !important;
+				color: white;
+				max-width: 280px;
+				margin: 0px;
+			}
+			
+			span.entry_source_feed {
+				background: white;
+				color: grey;
+				position: absolute;
+				top: 12px;
+			}
+		}
+	}
+}

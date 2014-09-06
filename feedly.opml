@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+    <head>
+        <title>Jan subscriptions in feedly Cloud</title>
+    </head>
+    <body>
+		<outline text="General News" title="General News">
+			<outline type="rss" text="RealClearWorld" title="RealClearWorld" xmlUrl="http://www.realclearworld.com/index.xml" htmlUrl="http://www.realclearworld.com/"/>
+            <outline type="rss" text="BBC News - UK" title="BBC News - UK" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/uk/rss.xml" htmlUrl="http://www.bbc.co.uk/news/uk/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+		</outline>
+        <outline text="General Interest" title="General Interest">
+            <outline type="rss" text="The Economist: Books and Arts" title="The Economist: Books and Arts" xmlUrl="http://www.economist.com/feeds/print-sections/89/books-and-arts.xml" htmlUrl="http://www.economist.com"/>
+            <outline type="rss" text="Wired" title="Wired" xmlUrl="http://feeds.wired.com/wired/index" htmlUrl="http://www.wired.com"/>
+            <outline type="rss" text="Ariel - Home" title="Ariel - Home" xmlUrl="http://feeds.bbci.co.uk/ariel/rss.xml" htmlUrl="http://www.bbc.co.uk/ariel/"/>
+            <outline type="rss" text="National Geographic News" title="National Geographic News" xmlUrl="http://news.nationalgeographic.com/index.rss" htmlUrl="http://news.nationalgeographic.com/"/>
+            <outline type="rss" text="Gizmodo UK" title="Gizmodo UK" xmlUrl="http://uk.gizmodo.com/atom" htmlUrl="http://www.gizmodo.co.uk"/>
+            <outline type="rss" text="The Huffington Post" title="The Huffington Post" xmlUrl="http://feeds.huffingtonpost.com/huffingtonpost/LatestNews" htmlUrl="http://www.huffingtonpost.com/thenewswire/"/>
+        </outline>
+        <outline text="Science + Technology" title="Science + Technology">
+            <outline type="rss" text="The Register" title="The Register" xmlUrl="http://www.theregister.co.uk/headlines.atom" htmlUrl="http://www.theregister.co.uk/"/>
+            <outline type="rss" text="CNN Technology" title="CNN Technology" xmlUrl="http://rss.cnn.com/rss/edition_technology.rss" htmlUrl="http://www.cnn.com/TECH/index.html?eref=rss_tech"/>
+            <outline type="rss" text="Gizmodo" title="Gizmodo" xmlUrl="http://feeds.gawker.com/gizmodo/vip" htmlUrl="http://gizmodo.com"/>
+            <outline type="rss" text="Ars Technica" title="Ars Technica" xmlUrl="http://feeds.arstechnica.com/arstechnica/index/" htmlUrl="http://arstechnica.com"/>
+            <outline type="rss" text="Mashable!" title="Mashable!" xmlUrl="http://feeds2.feedburner.com/Mashable" htmlUrl="http://mashable.com/stories/?utm_campaign=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_cid=Mash-Prod-RSS-Feedburner-All-Partial&amp;utm_medium=feed&amp;utm_source=rss"/>
+            <outline type="rss" text="Space Industry News" title="Space Industry News" xmlUrl="http://spaceindustrynews.com/feed/" htmlUrl="http://spaceindustrynews.com"/>
+            <outline type="rss" text="RealClearScience" title="RealClearScience" xmlUrl="http://www.realclearscience.com/index.xml" htmlUrl="http://www.realclearscience.com/"/>
+            <outline type="rss" text="Lifehacker" title="Lifehacker" xmlUrl="http://feeds.gawker.com/lifehacker/vip" htmlUrl="http://lifehacker.com"/>
+            <outline type="rss" text="Engadget" title="Engadget" xmlUrl="http://www.engadget.com/rss.xml" htmlUrl="http://www.engadget.com"/>
+            <outline type="rss" text="TechCrunch" title="TechCrunch" xmlUrl="http://feeds.feedburner.com/Techcrunch" htmlUrl="http://techcrunch.com"/>
+            <outline type="rss" text="Wired Space Photo of the Day - Wired Science" title="Wired Space Photo of the Day - Wired Science" xmlUrl="http://www.wired.com/wiredscience/feed/" htmlUrl="http://www.wired.com/wiredscience"/>
+            <outline type="rss" text="The Verge" title="The Verge" xmlUrl="http://www.theverge.com/rss/index.xml" htmlUrl="http://www.theverge.com/"/>
+        </outline>
+        <outline text="Satire + Humour" title="Satire + Humour">
+            <outline type="rss" text="The Duffel Blog" title="The Duffel Blog" xmlUrl="http://www.duffelblog.com/feed/" htmlUrl="http://www.duffelblog.com"/>
+            <outline type="rss" text="The Onion" title="The Onion" xmlUrl="http://www.theonion.com/content/feeds/daily" htmlUrl="http://www.theonion.com/"/>
+            <outline type="rss" text="News Thump" title="News Thump" xmlUrl="http://newsthump.com/feed/" htmlUrl="http://newsthump.com"/>
+            <outline type="rss" text="Cracked: All Posts" title="Cracked: All Posts" xmlUrl="http://feeds.feedburner.com/CrackedRSS" htmlUrl="http://www.cracked.com"/>
+            <outline type="rss" text="The Daily Mash" title="The Daily Mash" xmlUrl="http://www.thedailymash.co.uk/rss.xml" htmlUrl="http://www.thedailymash.co.uk"/>
+            <outline type="rss" text="Private Eye" title="Private Eye" xmlUrl="http://www.private-eye.co.uk/rss/rss.php" htmlUrl="http://www.private-eye.co.uk/"/>
+            <outline type="rss" text="NewsBiscuit" title="NewsBiscuit" xmlUrl="http://www.newsbiscuit.com/feed/" htmlUrl="http://www.newsbiscuit.com"/>
+        </outline>
+        <outline text="World News" title="World News">
+            <outline type="rss" text="Toynbee Prize Foundation" title="Toynbee Prize Foundation" xmlUrl="http://toynbeeprize.org/feed/" htmlUrl="http://toynbeeprize.org"/>
+            <outline type="rss" text="The Economist: Asia" title="The Economist: Asia" xmlUrl="http://www.economist.com/rss/asia_rss.xml" htmlUrl="http://www.economist.com"/>
+            <outline type="rss" text="CNN World" title="CNN World" xmlUrl="http://rss.cnn.com/rss/edition_world.rss" htmlUrl="http://www.cnn.com/WORLD/index.html?eref=rss_world"/>
+            <outline type="rss" text="MercoPress" title="MercoPress" xmlUrl="http://en.mercopress.com/rss/" htmlUrl="http://en.mercopress.com/"/>
+            <outline type="rss" text="Le Monde Diplomatique" title="Le Monde Diplomatique" xmlUrl="http://mondediplo.com/backend" htmlUrl="http://mondediplo.com/"/>
+            <outline type="rss" text="UPI" title="UPI" xmlUrl="http://rss.upi.com/news/news.rss" htmlUrl="http://www.upi.com/"/>
+            <outline type="rss" text="Russia Today" title="Russia Today" xmlUrl="http://rt.com/news/today/rss/" htmlUrl="http://rt.com/"/>
+            <outline type="rss" text="Reuters" title="Reuters" xmlUrl="http://feeds.reuters.com/reuters/topNews?irpc=69" htmlUrl="http://www.reuters.com"/>
+            <outline type="rss" text="Foreign Affairs" title="Foreign Affairs" xmlUrl="http://www.foreignaffairs.com/rss.xml" htmlUrl="http://www.foreignaffairs.com/rss.xml?cid=rss-rss_xml-rss_xml-000000"/>
+            <outline type="rss" text="HuffPost World" title="HuffPost World" xmlUrl="http://feeds.huffingtonpost.com/huffingtonpost/raw_feed" htmlUrl="http://www.huffingtonpost.com/raw_feed_index.rdf"/>
+            <outline type="rss" text="The Charlotte Observer - World" title="The Charlotte Observer - World" xmlUrl="http://www.charlotteobserver.com/world/index.rss" htmlUrl="http://www.charlotteobserver.com/235/index.rss"/>
+            <outline type="rss" text="GlobalPost" title="GlobalPost" xmlUrl="http://www.globalpost.com/feed/dispatch/18797" htmlUrl="http://www.globalpost.com/feed/dispatch/18797"/>
+            <outline type="rss" text="World Affairs Journal - All Regions" title="World Affairs Journal - All Regions" xmlUrl="http://www.worldaffairsjournal.org/regional-news.xml" htmlUrl="http://www.worldaffairsjournal.org/headlines.xml"/>
+            <outline type="rss" text="Bloomberg" title="Bloomberg" xmlUrl="http://www.newslookup.com/rss/business/bloomberg.rss" htmlUrl="http://www.bloomberg.com/"/>
+            <outline type="rss" text="The Guardian World News" title="The Guardian World News" xmlUrl="http://www.guardian.co.uk/rssfeed/0,,1,00.xml" htmlUrl="http://www.theguardian.com/uk"/>
+            <outline type="rss" text="Telegraph - World" title="Telegraph - World" xmlUrl="http://www.telegraph.co.uk/news/worldnews/rss" htmlUrl="http://www.telegraph.co.uk/news/worldnews/"/>
+            <outline type="rss" text="ABC News: International" title="ABC News: International" xmlUrl="http://feeds.abcnews.com/abcnews/internationalheadlines" htmlUrl="http://abcnews.go.com/International/"/>
+            <outline type="rss" text="Washington Post" title="Washington Post" xmlUrl="http://www.washingtonpost.com/rss/homepage" htmlUrl="http://www.washingtonpost.com?wprss=rss_homepage"/>
+            <outline type="rss" text="Financial Times - World" title="Financial Times - World" xmlUrl="http://www.ft.com/rss/world" htmlUrl="http://www.ft.com/world"/>
+            <outline type="rss" text="The Real News Network" title="The Real News Network" xmlUrl="http://therealnews.com/rss/therealnews.rss" htmlUrl="http://therealnews.com/idirectep.php?e=57"/>
+            <outline type="rss" text="The Moscow Times" title="The Moscow Times" xmlUrl="http://www.themoscowtimes.com/rss/issue" htmlUrl="http://www.themoscowtimes.com/"/>
+            <outline type="rss" text="BBC News - World" title="BBC News - World" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/world/rss.xml" htmlUrl="http://www.bbc.co.uk/news/world/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+            <outline type="rss" text="Parliament" title="Parliament" xmlUrl="http://www.parliament.uk/g/rss/news-feed/?pageInstanceId=25313&amp;limit=20" htmlUrl="http://www.parliament.uk/business/news/international-affairs/"/>
+            <outline type="rss" text="Al Jazeera" title="Al Jazeera" xmlUrl="http://english.aljazeera.net/Services/Rss/?PostingId=2007731105943979989" htmlUrl="http://www.aljazeera.com/default.html"/>
+            <outline type="rss" text="RealClearWorld" title="RealClearWorld" xmlUrl="http://www.realclearworld.com/index.xml" htmlUrl="http://www.realclearworld.com/"/>
+            <outline type="rss" text="The Economist: International" title="The Economist: International" xmlUrl="http://www.economist.com/rss/international_rss.xml" htmlUrl="http://www.economist.com"/>
+            <outline type="rss" text="Independent - World" title="Independent - World" xmlUrl="http://rss.feedsportal.com/c/266/f/3503/index.rss" htmlUrl="http://www.independent.co.uk/news/world/?service=Rss"/>
+            <outline type="rss" text="World Politics News Review" title="World Politics News Review" xmlUrl="http://worldpoliticsblog.wordpress.com/feed/" htmlUrl="http://worldpoliticsblog.wordpress.com"/>
+            <outline type="rss" text="The Economist: The Americas" title="The Economist: The Americas" xmlUrl="http://www.economist.com/rss/the_americas_rss.xml" htmlUrl="http://www.economist.com"/>
+            <outline type="rss" text="South China Morning Post" title="South China Morning Post" xmlUrl="http://www.scmp.com/rss/91/feed" htmlUrl="http://www.scmp.com/rss/91/feed"/>
+            <outline type="rss" text="Times of India - World" title="Times of India - World" xmlUrl="http://timesofindia.indiatimes.com/rssfeeds/296589292.cms" htmlUrl="http://timesofindia.indiatimes.com/articlelist/296589292.cms"/>
+            <outline type="rss" text="Council on Foreign Relations" title="Council on Foreign Relations" xmlUrl="http://feeds.cfr.org/cfr_main" htmlUrl="http://www.cfr.org"/>
+            <outline type="rss" text="Foreign Policy" title="Foreign Policy" xmlUrl="http://www.foreignpolicy.com/issue/foreignpolicy.php" htmlUrl="http://www.foreignpolicy.com"/>
+            <outline type="rss" text="The Economist: Middle East and Africa" title="The Economist: Middle East and Africa" xmlUrl="http://www.economist.com/rss/middle_east_and_africa_rss.xml" htmlUrl="http://www.economist.com"/>
+            <outline type="rss" text="The Economist: Europe" title="The Economist: Europe" xmlUrl="http://www.economist.com/rss/europe_rss.xml" htmlUrl="http://www.economist.com"/>
+            <outline type="rss" text="Sky World" title="Sky World" xmlUrl="http://news.sky.com/sky-news/rss/world-news/rss.xml" htmlUrl="http://news.sky.com/world"/>
+            <outline type="rss" text="Trust.org" title="Trust.org" xmlUrl="http://www.trust.org/data/feeds/acs/?&amp;f_type=article&amp;sbd=1" htmlUrl="http://www.trust.org"/>
+        </outline>
+        <outline text="Business + Economics" title="Business + Economics">
+            <outline type="rss" text="RealClearMarkets" title="RealClearMarkets" xmlUrl="http://www.realclearmarkets.com/index.xml" htmlUrl="http://www.realclearmarkets.com/"/>
+            <outline type="rss" text="The Economist: Finance and Economics" title="The Economist: Finance and Economics" xmlUrl="http://www.economist.com/feeds/print-sections/79/finance-and-economics.xml" htmlUrl="http://www.economist.com"/>
+        </outline>
+        <outline text="Video Games" title="Video Games">
+            <outline type="rss" text="Kotaku" title="Kotaku" xmlUrl="http://kotaku.com/index.xml" htmlUrl="http://kotaku.com"/>
+            <outline type="rss" text="Rock, Paper, Shotgun" title="Rock, Paper, Shotgun" xmlUrl="http://feeds.feedburner.com/RockPaperShotgun" htmlUrl="http://www.rockpapershotgun.com"/>
+            <outline type="rss" text="Polygon" title="Polygon" xmlUrl="http://www.polygon.com/rss/index.xml" htmlUrl="http://www.polygon.com/"/>
+            <outline type="rss" text="Eurogamer.net" title="Eurogamer.net" xmlUrl="http://www.eurogamer.net/rss/eurogamer_frontpage_feed.rss" htmlUrl="http://www.eurogamer.net/"/>
+            <outline type="rss" text="Joystiq" title="Joystiq" xmlUrl="http://www.joystiq.com/rss.xml" htmlUrl="http://www.joystiq.com"/>
+            <outline type="rss" text="PCGamesN" title="PCGamesN" xmlUrl="http://www.pcgamesn.com/mainrss.xml" htmlUrl="http://www.pcgamesn.com/mainrss.xml"/>
+        </outline>
+        <outline text="Defence" title="Defence">
+            <outline type="rss" text="Breaking Defense" title="Breaking Defense" xmlUrl="http://defense.aol.com/rss.xml" htmlUrl="http://breakingdefense.com"/>
+            <outline type="rss" text="Defense-Update" title="Defense-Update" xmlUrl="http://feeds.feedblitz.com/feedburner/defenseupdate" htmlUrl="http://defense-update.com"/>
+            <outline type="rss" text="RUSI News Feed" title="RUSI News Feed" xmlUrl="http://www.rusi.org/rss/rss:S430F4009EEE86/" htmlUrl="http://www.rusi.org/"/>
+            <outline type="rss" text="RealClearDefense" title="RealClearDefense" xmlUrl="http://www.realcleardefense.com/index.xml" htmlUrl="http://www.realcleardefense.com/"/>
+            <outline type="rss" text="ASDNews" title="ASDNews" xmlUrl="http://www.asdnews.com/rss/index.asp" htmlUrl="http://www.asdnews.com/rss"/>
+            <outline type="rss" text="Defense Aerospace" title="Defense Aerospace" xmlUrl="http://www.defense-aerospace.com/flux/fluxus1.xml" htmlUrl="http://www.defense-aerospace.com/"/>
+            <outline type="rss" text="BFBS News" title="BFBS News" xmlUrl="http://www.bfbs.com/news/rss/Army" htmlUrl="http://www.bfbs.com/news/feeds/Army"/>
+            <outline type="rss" text="ModOracle" title="ModOracle" xmlUrl="http://www.modoracle.com/modoraclenews.xml" htmlUrl="http://www.modoracle.com"/>
+            <outline type="rss" text="War on the Rocks" title="War on the Rocks" xmlUrl="http://warontherocks.com/feed/" htmlUrl="http://warontherocks.com"/>
+            <outline type="rss" text="IHS Jane's 360" title="IHS Jane's 360" xmlUrl="http://www.janes.com/home/rss" htmlUrl="http://www.janes.com/"/>
+            <outline type="rss" text="DefenceTalk" title="DefenceTalk" xmlUrl="http://feeds2.feedburner.com/defense" htmlUrl="http://www.defencetalk.com"/>
+            <outline type="rss" text="The Official British Army Blog" title="The Official British Army Blog" xmlUrl="http://britisharmy.wordpress.com/feed/" htmlUrl="http://britisharmy.wordpress.com"/>
+        </outline>
+        <outline text="Art + Design" title="Art + Design">
+            <outline type="rss" text="I love typography, the typography and fonts blog" title="I love typography, the typography and fonts blog" xmlUrl="http://feedproxy.google.com/ILoveTypography" htmlUrl="http://ilovetypography.com"/>
+            <outline type="rss" text="CSS-Tricks" title="CSS-Tricks" xmlUrl="http://feeds.feedburner.com/CssTricks" htmlUrl="http://css-tricks.com"/>
+            <outline type="rss" text="Co.Design" title="Co.Design" xmlUrl="http://www.fastcodesign.com/rss.xml" htmlUrl="http://www.fastcodesign.com"/>
+            <outline type="rss" text="information aesthetics" title="information aesthetics" xmlUrl="http://infosthetics.com/atom.xml" htmlUrl="http://infosthetics.com/"/>
+            <outline type="rss" text="The Media Eclectic" title="The Media Eclectic" xmlUrl="http://themediaeclectic.co.uk/feed/" htmlUrl="http://themediaeclectic.co.uk"/>
+            <outline type="rss" text="Datavisualization.ch" title="Datavisualization.ch" xmlUrl="http://feeds.feedburner.com/Datavisualization" htmlUrl="http://datavisualization.ch"/>
+            <outline type="rss" text="Smashing Magazine Feed" title="Smashing Magazine Feed" xmlUrl="http://rss1.smashingmagazine.com/feed/" htmlUrl="http://www.smashingmagazine.com"/>
+        </outline>
+        <outline text="UK News" title="UK News">
+            <outline type="rss" text="Financial Times - UK" title="Financial Times - UK" xmlUrl="http://www.ft.com/rss/home/uk" htmlUrl="http://www.ft.com/home/uk"/>
+            <outline type="rss" text="Guardian - UK" title="Guardian - UK" xmlUrl="http://www.guardian.co.uk/rssfeed/0,15065,11,00.xml" htmlUrl="http://www.theguardian.com/uk"/>
+            <outline type="rss" text="Political Scrapbook" title="Political Scrapbook" xmlUrl="http://feeds.feedburner.com/PoliticalScrapbook" htmlUrl="http://politicalscrapbook.net"/>
+            <outline type="rss" text="Ariel - Home" title="Ariel - Home" xmlUrl="http://feeds.bbci.co.uk/ariel/rss.xml" htmlUrl="http://www.bbc.co.uk/ariel/"/>
+            <outline type="rss" text="Telegraph - UK" title="Telegraph - UK" xmlUrl="http://www.telegraph.co.uk/newsfeed/rss/news-uk_news.xml" htmlUrl="http://www.telegraph.co.uk/news/uknews/"/>
+            <outline type="rss" text="The Economist - UK" title="The Economist - UK" xmlUrl="http://www.economist.com/rss/britain_rss.xml" htmlUrl="http://www.economist.com"/>
+            <outline type="rss" text="Sky UK" title="Sky UK" xmlUrl="http://news.sky.com/sky-news/rss/uk-news/rss.xml" htmlUrl="http://news.sky.com/uk"/>
+            <outline type="rss" text="Independent - UK" title="Independent - UK" xmlUrl="http://rss.feedsportal.com/c/266/f/3496/index.rss" htmlUrl="http://www.independent.co.uk/news/uk/?service=Rss"/>
+            <outline type="rss" text="BBC News - UK" title="BBC News - UK" xmlUrl="http://newsrss.bbc.co.uk/rss/newsonline_uk_edition/uk/rss.xml" htmlUrl="http://www.bbc.co.uk/news/uk/#sa-ns_mchannel=rss&amp;ns_source=PublicRSS20-sa"/>
+            <outline type="rss" text="The Spectator" title="The Spectator" xmlUrl="http://www.spectator.co.uk/rss/coffeehouse.xml" htmlUrl="http://blogs.spectator.co.uk"/>
+            <outline type="rss" text="Reuters - UK" title="Reuters - UK" xmlUrl="http://mf.feeds.reuters.com/reuters/UKdomesticNews" htmlUrl="http://uk.reuters.com"/>
+        </outline>
+        <outline text="Loughborough" title="Loughborough">
+            <outline type="rss" text="LSU" title="LSU" xmlUrl="http://www.lsu.co.uk/news/rss/8035/subtree/" htmlUrl="http://www.lsu.co.uk/news/videoblog/"/>
+            <outline type="rss" text="The Epinal" title="The Epinal" xmlUrl="http://www.theepinal.co.uk/feed/" htmlUrl="http://www.theepinal.co.uk"/>
+            <outline type="rss" text="Loughborough Echo" title="Loughborough Echo" xmlUrl="http://www.loughboroughecho.net/rss.xml" htmlUrl="http://www.loughboroughecho.net/"/>
+        </outline>
+    </body>
+</opml>
